@@ -1,0 +1,2 @@
+[ Warning ]
+Do not change any of the game files! If you do, the game won't work perfectly!
