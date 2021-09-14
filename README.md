@@ -1,8 +1,8 @@
 # Install guide
 # Windows
 # 
-# 1. Click on the "Code" button
-# 2. Click on "Download ZIP"
+# 1. Click on the "Relases" button
+# 2. Find the wanted version
 # 3. Save the ZIP file to your PC
 # 4. Unpack the ZIP file
 # 5. Copy or cut the modpack ZIP file
