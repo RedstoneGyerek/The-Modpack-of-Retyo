@@ -1,7 +1,7 @@
 # Install guide
 # Windows
 # 
-# 1. Click on the "Relases" button
+# 1. Click on the "Relases" button on the right
 # 2. Find the wanted version
 # 3. Save the ZIP file to your PC
 # 4. Unpack the ZIP file
