@@ -1,0 +1,29 @@
+[ Install guide ]
+[ Windows ]
+
+[Before B.3.0]
+
+1. Click on the "Relases" button on the right
+2. Find the wanted version
+3. Save the ZIP file to your PC
+4. Copy or cut the modpack ZIP file
+5. Open your file manager
+6. Search for "%appdata%"
+7. Find folder ".minecraft"
+8. Find folder "versions"
+9. Put the modpack ZIP inside the versions folder
+10. Your done! Enjoy! :)
+
+[After B.3.0]
+
+1. Click on the "Relases" button on the right
+2. Find the wanted version
+3. Save the ZIP file to your PC
+4. Copy or cut the modpack ZIP file
+5. Open your file manager
+6. Search for "%appdata%"
+7. Find folder ".minecraft"
+8. Find folder "versions"
+9. Put the modpack ZIP inside the versions folder
+10. Unpack the ZIP file
+11. Your done! Enjoy! :)
