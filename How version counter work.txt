@@ -1,0 +1,12 @@
+[ How version counter work ]
+
+Example: B.3.0
+The letter "B" is for Beta
+The number "3" is for version 3
+The number "0" if for patch 0
+
+Example: v.1.2.1
+The letter "v" is for version
+The first number "1" is for version 1
+The number "2" is for patch 2
+The second number "1" is for patch of patch 1 (Yea it's good how it is)
